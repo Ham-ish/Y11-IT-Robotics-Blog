@@ -7,14 +7,16 @@ Micropython
 
 Show screenshots
 
-<img src="Microbits_code1.png" alt="Show screenshots" width="400" ("San Juan Mountains")/>
+<img src="Microbits_code1.png" alt="Show screenshots" width="400"/>
 
 
 Arduino projects 
 
 Project 2
 LED SOS Signal
+
 Arduino
+
 N/A
 
 Code
@@ -24,6 +26,14 @@ Code
 Project 3
 Dynamic traffic lights
 
+Arduino
+
+N/A
+
+Code
+
+N/A
 
 Overveiw:
 
+Beginning a new topic with basic breadboards and c++
