@@ -6,7 +6,7 @@ Micro:bits
 Micropython
 
 Show screenshots
-![The San Juan Mountains are beautiful!](./Code screenshot 1.jpg "San Juan Mountains")
+![Show screenshots](./Codescreenshot1.png "San Juan Mountains")
 
 
 Arduino projects 
