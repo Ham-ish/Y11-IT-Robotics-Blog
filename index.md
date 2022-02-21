@@ -1,5 +1,5 @@
 # Blog 
-## 21/2/22 title
+## 21/2/22 Initial robotics
 
 
 Micro:bits
