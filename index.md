@@ -7,7 +7,7 @@ Micropython
 
 Show screenshots
 
-<img src="Microbits_code1.png" alt="Show screenshots" width="300"/>
+<img src="Microbits_code1.png" alt="Show screenshots" width="400"/>
 
 
 Arduino projects 
