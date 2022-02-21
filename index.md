@@ -7,7 +7,7 @@ Micropython
 
 Show screenshots
 
-![Show screenshots](./Codescreenshot1.png "San Juan Mountains")
+
 
 
 Arduino projects 
@@ -19,6 +19,7 @@ N/A
 
 Code
  
+ ![Show screenshots](./Codescreenshot1.png "San Juan Mountains")
 
 Project 3
 Dynamic traffic lights
