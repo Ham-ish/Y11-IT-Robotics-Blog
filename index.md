@@ -7,7 +7,7 @@ Micropython
 
 Show screenshots
 
-<img src="Microbits_code1.png" alt="Show screenshots" width="400" "San Juan Mountains"/>
+<img src="Microbits_code1.png" alt="Show screenshots" width="400" ("San Juan Mountains")/>
 
 
 Arduino projects 
