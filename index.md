@@ -7,7 +7,7 @@ Micropython
 
 Show screenshots
 
-![Show screenshots](./Microbits_code1.png "Cilindro de Marboré Mountains")<img src="Microbits_code1.png" alt="Show screenshots" width="200"/>
+!<img src="Microbits_code1.png" alt="Show screenshots" width="200"/>
 
 
 Arduino projects 
