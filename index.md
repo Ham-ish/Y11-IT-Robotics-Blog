@@ -6,6 +6,7 @@ Micro:bits
 Micropython
 
 Show screenshots
+
 ![Show screenshots](./Codescreenshot1.png "San Juan Mountains")
 
 
@@ -22,4 +23,6 @@ Code
 Project 3
 Dynamic traffic lights
 
+
+Overveiw:
 
