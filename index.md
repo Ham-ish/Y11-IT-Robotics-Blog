@@ -7,13 +7,13 @@ Micropython
 
 Show screenshots
 
-<img src="Microbits_code1.png" alt="Show screenshots" width="400"/>
+<img src="Microbits_code1.png" alt="Show screenshots" title="Mount Fukushima" width="400"/>
 
-<img src="Microbits_code2.png" alt="Show screenshots" width="300"/>
+<img src="Microbits_code2.png" alt="Show screenshots" title="Mount Rushmore" width="300"/>
 
-<img src="Microbits_code3.png" alt="Show screenshots" width="300"/>
+<img src="Microbits_code3.png" alt="Show screenshots" title="Mont Blanc" width="300"/>
 
-<img src="Microbits_code4.png" alt="Show screenshots" width="350"/>
+<img src="Microbits_code4.png" alt="Show screenshots" title="Mount Cilindro de Marboré" width="350"/>
 
 Arduino projects 
 
