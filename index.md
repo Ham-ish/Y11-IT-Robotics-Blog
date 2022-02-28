@@ -1,4 +1,20 @@
 # Blog 
+## 28/2/22 Robotics cont.
+
+
+Arduino Projects
+
+Project 3
+Dynamic traffic lights
+
+Code
+
+
+
+
+
+
+
 ## 21/2/22 Initial robotics
 
 
