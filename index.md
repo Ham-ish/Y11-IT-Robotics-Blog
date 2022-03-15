@@ -17,6 +17,9 @@ CyberLive
 Encrypting data in a file
 
 
+Overveiw: Need to solve power problem for arduino and do GROK Cyber Course
+
+
 
 ## 7/3/22 Simple Arduino hardware Intro
 Arduino projects 
