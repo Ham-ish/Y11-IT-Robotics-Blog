@@ -1,5 +1,23 @@
 # Blog 
 
+## 15/3/22
+Ardino project
+
+Project 13
+
+Encountered an error connecting the Controlling device to the arduino
+Belived to be due to overdrawing power from device
+
+______________
+
+CyberSecurity preperation
+
+CyberLive
+
+Encrypting data in a file
+
+
+
 ## 7/3/22 Simple Arduino hardware Intro
 Arduino projects 
 
