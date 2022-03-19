@@ -1,5 +1,39 @@
 # Blog 
 
+## 21/3/22 Simple Arduino hardware Intro
+
+Missed Lesson on Monday Due to Public Holiday
+
+Cyber Live
+
+Begun cyber live course on grok
+
+Screenshots
+
+<img src="GrokCyberlive1_VampireHunters.png" alt="Show screenshots" title="Mount Rushmore" width="700"/>
+<img src="GrokCyberlive2_SystemCompromised.png" alt="Show screenshots" title="Mount Rushmore" width="700"/>
+<img src="GrokCyberlive3_DropByAndSayHi.png" alt="Show screenshots" title="Mount Rushmore" width="700"/>
+<img src="GrokCyberlive4_AnotherPossibleTarget.png" alt="Show screenshots" title="Mount Rushmore" width="700"/>
+<img src="GrokCyberlive5_TargetPractice.png" alt="Show screenshots" title="Mount Rushmore" width="700"/>
+
+
+_____________________________________________
+
+Arduino
+
+Solved connection issue
+
+Project 13
+
+Fan Constantly spinning
+
+Shouldn't do that
+
+______________________________________________
+
+Overview: Begun cyber live course work in class and therefore had less time to do Arduino work
+
+
 ## 15/3/22
 Ardino project
 
