@@ -1,5 +1,14 @@
 # Blog 
 
+## 28/3/22 Simple Arduino hardware Intro
+
+Research Task issued
+
+Requires to do research on a topic of robotics and mechatronics
+-begun research on UNSW Bionic eye
+
+Overveiw: not much happened
+
 ## 21/3/22 Simple Arduino hardware Intro
 
 Missed Lesson on Monday Due to Public Holiday
