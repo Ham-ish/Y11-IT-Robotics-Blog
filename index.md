@@ -1,5 +1,15 @@
 # Blog 
 
+## 7/4/22 Turns out the Assignment was due
+
+Turned in assignment 
+But Bionic ears do stuff
+Bionic eyes failed
+
+Artistic expression
+
+Overveiw: Bad
+
 ## 28/3/22 Simple Arduino hardware Intro
 
 Research Task issued
