@@ -4,9 +4,9 @@
 
 Turned in assignment 
 
-But Bionic ears do stuff
+Bionic ears can do stuff
 
-Bionic eyes failed
+Bionic eyes tho'
 
 Artistic expression
 
