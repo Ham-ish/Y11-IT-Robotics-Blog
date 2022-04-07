@@ -3,7 +3,9 @@
 ## 7/4/22 Turns out the Assignment was due
 
 Turned in assignment 
+
 But Bionic ears do stuff
+
 Bionic eyes failed
 
 Artistic expression
