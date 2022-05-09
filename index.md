@@ -1,5 +1,14 @@
 # Blog 
 
+## 2/5/22 Begining of Term 2 Blog
+
+Simulated arduino circuitboard in tinkercad
+
+<img src="Simulated_circuit1.JPG" alt="Show screenshots" title="Mount Rushmore" width="300"/>
+
+<img src="Simulated_circuit_code1.JPG" alt="Show screenshots" title="Mount Rushmore" width="300"/>
+
+
 ## 7/4/22 Turns out the Assignment was due
 
 Turned in assignment 
