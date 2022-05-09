@@ -4,9 +4,7 @@
 
 Simulated arduino circuitboard in tinkercad
 
-<img src="Simulated_circuit1.png" alt="Show screenshots" title="Mount Rushmore" width="300"/>
-
-<img src="Simulated_Circuit_code1.png" alt="Show screenshots" title="Mount Rushmore" width="300"/>
+<img src="Simulated_circuit1.png" alt="Show screenshots" title="Mount Rushmore" width="300"/><img src="Simulated_Circuit_code1.png" alt="Show screenshots" title="Mount Rushmore" width="300"/>
 
 
 ## 7/4/22 Turns out the Assignment was due
