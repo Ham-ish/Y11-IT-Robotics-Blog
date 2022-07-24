@@ -8,7 +8,7 @@ Worked trough the PWM Document and created the circuits
 
 <img src="Screen Shot 2022-07-24 at 9.29.40 pm.png" alt="Show screenshots" title="PWM_Tutorial_1" width="300"/>
 
-<img src="Screen Shot 2022-07-24 at 9.29.40 pm.png" alt="Show screenshots" title="PWM_Tutorial_1" width="300"/>
+<img src="PWM_Tutorial_2.png" title="PWM_Tutorial_2" width="300"/>
 
 -
 
