@@ -1,7 +1,12 @@
-# Blog 
+# Y11 IT Robotics Blog 
 
 
-##
+## 25/7/22 Begining of Term 3 Blog
+
+Worked trough the PWM Document and created the circuits
+
+
+<img src="Simulated_Circuit_code1.png" alt="Show screenshots" title="Mount Rushmore" width="300"/>
 
 -
 
