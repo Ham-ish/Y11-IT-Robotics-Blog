@@ -1,5 +1,22 @@
 # Blog 
 
+
+##
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+##
+
 ## 2/5/22 Begining of Term 2 Blog
 
 Simulated arduino circuitboard in tinkercad
