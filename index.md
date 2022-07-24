@@ -10,6 +10,8 @@ Worked trough the PWM Document and created the circuits
 
 <img src="PWM_Tutorial_2.png" title="PWM_Tutorial_2" width="300"/>
 
+The images for the phisical build are being difficult so if they are not there it means that i couldnt fix it
+
 -
 
 -
