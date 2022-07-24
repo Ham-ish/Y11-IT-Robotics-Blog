@@ -6,7 +6,7 @@
 Worked trough the PWM Document and created the circuits
 
 
-<img src="Simulated_Circuit_code1.png" alt="Show screenshots" title="Mount Rushmore" width="300"/>
+<img src="Screen Shot 2022-07-24 at 9.29.40 pm.png" alt="Show screenshots" title="Mount Rushmore" width="300"/>
 
 -
 
