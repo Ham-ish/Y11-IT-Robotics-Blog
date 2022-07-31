@@ -3,6 +3,11 @@
 
 ## 1/8/22 
 
+Worked on Arduino Components document
+
+Completed Switch cases task
+
+
 
 
 ## 25/7/22 Begining of Term 3 Blog
