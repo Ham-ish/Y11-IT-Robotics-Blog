@@ -7,7 +7,7 @@ Worked on Arduino Components document
 
 Completed Switch cases task
 
-
+<img src="./Images/Switch cases test.png" title="PWM_Tutorial_2" width="300"/>
 
 
 ## 25/7/22 Begining of Term 3 Blog
