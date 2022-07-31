@@ -7,7 +7,10 @@ Worked on Arduino Components document
 
 Completed Switch cases task
 
-<img src="./Images/Switch cases test.png" title="PWM_Tutorial_2" width="300"/>
+<img src="./Images/Switch cases test.png" title="PWM_Tutorial_2" width="300"/><img src="./Images/Switch case Breadboard.JPG" title="PWM_Tutorial_2" width="600"/>
+
+This circuit uses a switch case to turn the many possible potentiometer values into a few cases to change the brightness of a led
+
 
 
 ## 25/7/22 Begining of Term 3 Blog
