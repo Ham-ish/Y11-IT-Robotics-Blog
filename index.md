@@ -12,6 +12,11 @@ Completed Switch cases task
 This circuit uses a switch case to turn the many possible potentiometer values into a few cases to change the brightness of a led
 
 
+<img src="./Images/Hypotenuse calculator code pt1.png" title="PWM_Tutorial_2" width="800"/>
+
+<img src="./Images/Hypotenuse calculator code pt 2.png" title="PWM_Tutorial_2" width="800"/>
+
+This code uses functions to calculate the hypotenuse of a triangle given opposite and adjacent sides
 
 ## 25/7/22 Begining of Term 3 Blog
 
