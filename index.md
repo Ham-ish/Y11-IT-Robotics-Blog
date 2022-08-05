@@ -7,7 +7,7 @@ Finished Arduino Components document
 Array Blinking Led
 
 <img src="./Images/Array Led Board.JPG" title="Array Led Board" width="300"/>
-<img src="./Images/Array Led Board.JPG" title="Array Led Code" width="300"/>
+<img src="./Images/Led pattern arrays.jpeg" title="Array Led Code" width="300"/>
 
 ## 1/8/22 
 
