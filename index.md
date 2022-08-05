@@ -6,7 +6,8 @@ Finished Arduino Components document
 
 Array Blinking Led
 
-<img src="./Images/Array Led Board.JPG" title="PWM_Tutorial_2" width="300"/>
+<img src="./Images/Array Led Board.JPG" title="Array Led Board" width="300"/>
+<img src="./Images/Array Led Board.JPG" title="Array Led Code" width="300"/>
 
 ## 1/8/22 
 
@@ -14,14 +15,14 @@ Worked on Arduino Components document
 
 Completed Switch cases task
 
-<img src="./Images/Switch cases test.png" title="PWM_Tutorial_2" width="300"/><img src="./Images/Switch case Breadboard.JPG" title="PWM_Tutorial_2" width="600"/>
+<img src="./Images/Switch cases test.png" title="Switch case tutorial" width="300"/><img src="./Images/Switch case Breadboard.JPG" title="Switch case breadboard" width="600"/>
 
 This circuit uses a switch case to turn the many possible potentiometer values into a few cases to change the brightness of a led
 
 
-<img src="./Images/Hypotenuse calculator code pt1.png" title="PWM_Tutorial_2" width="800"/>
+<img src="./Images/Hypotenuse calculator code pt1.png" title="Hypotenuse calculator" width="800"/>
 
-<img src="./Images/Hypotenuse calculator code pt 2.png" title="PWM_Tutorial_2" width="800"/>
+<img src="./Images/Hypotenuse calculator code pt 2.png" title="Hypotenuse calculator" width="800"/>
 
 This code uses functions to calculate the hypotenuse of a triangle given opposite and adjacent sides
 
@@ -63,11 +64,7 @@ Turned in assignment
 
 Bionic ears can do stuff
 
-Bionic eyes tho'
-
-Artistic expression
-
-Overveiw: Bad
+Overveiw: Not great
 
 ## 28/3/22 Simple Arduino hardware Intro
 
