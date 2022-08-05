@@ -1,5 +1,12 @@
 # Y11 IT Robotics Blog 
 
+## 8/8/22
+
+Finished Arduino Components document
+
+Array Blinking Led
+
+a
 
 ## 1/8/22 
 
