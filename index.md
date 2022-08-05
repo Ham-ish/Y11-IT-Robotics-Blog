@@ -6,7 +6,7 @@ Finished Arduino Components document
 
 Array Blinking Led
 
-a
+<img src="./Images/Array Led Board.JPG" title="PWM_Tutorial_2" width="300"/>
 
 ## 1/8/22 
 
