@@ -9,6 +9,10 @@ Array Blinking Led
 <img src="./Images/Array Led Board.JPG" title="Array Led Board" width="300"/>
 <img src="./Images/Led pattern arrays.jpeg" title="Array Led Code" width="300"/>
 
+Uses an array to reference which led to turn on in a line
+
+
+
 ## 1/8/22 
 
 Worked on Arduino Components document
