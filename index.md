@@ -11,6 +11,9 @@ Array Blinking Led
 
 Uses an array to reference which led to turn on in a line
 
+Bit math
+
+
 
 
 ## 1/8/22 
