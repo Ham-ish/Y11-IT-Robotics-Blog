@@ -1,5 +1,10 @@
 # Y11 IT Robotics Blog 
 
+## 15/8/22
+
+This week of IT was mainly focused on game dev work and was therefore devoid of any substantial robotics
+
+
 ## 8/8/22
 
 Finished Arduino Components document
