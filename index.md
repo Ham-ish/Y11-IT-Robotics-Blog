@@ -1,5 +1,11 @@
 # Y11 IT Robotics Blog 
 
+## 22/8/22
+
+Exam week
+no time for blog
+sorry
+
 ## 15/8/22
 
 This week of IT was mainly focused on game dev work and was therefore devoid of any substantial robotics
