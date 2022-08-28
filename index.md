@@ -1,8 +1,14 @@
 # Y11 IT Robotics Blog 
 
+## 29/8/22
+
+Exams
+
+no work do
+
 ## 22/8/22
 
-Exam week
+Exam week prep
 
 no time for blog
 
