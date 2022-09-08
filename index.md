@@ -13,7 +13,7 @@ Using shift registries to read and compare 8 digit binary numbers, then show vis
 The code reads an decimal input from the user, converts it to binary, and compares that to a preset binary string using "And", "Or", and "Exclusive Or". This is then shown on the LED's, lighting up to show 1's and dimming to show 0's
 
 
-<img src="./Images/arrg" title="Placeholder image for if i cannot solve picture problems" width="300"/>
+<img src="./Images/Registerless hardware.jpg" title="Registerless hardware" width="300"/>
 
 Here is the hardware
 
