@@ -15,7 +15,11 @@ The code reads an decimal input from the user, converts it to binary, and compar
 
 <img src="./Images/arrg" title="Placeholder image for if i cannot solve picture problems" width="300"/>
 
+Here is the hardware
+
 There is no shift register currently in the boxes so this is everything else in the hardware
+
+Due to me changing my computer to windows, I have had to reinstall and reinitialise a lot of the things on the computer which has caused a few technical difficulties and delays
 
 
 ## 29/8/22
