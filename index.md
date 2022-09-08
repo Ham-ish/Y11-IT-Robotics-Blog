@@ -13,9 +13,9 @@ Using shift registries to read and compare 8 digit binary numbers, then show vis
 The code reads an decimal input from the user, converts it to binary, and compares that to a preset binary string using "And", "Or", and "Exclusive Or". This is then shown on the LED's, lighting up to show 1's and dimming to show 0's
 
 
-<img src="./Images/arrg" title="Placeholder image if i cannot solve" width="300"/>
+<img src="./Images/arrg" title="Placeholder image for if i cannot solve picture problems" width="300"/>
 
-there is no shift register currently in the boxes so this is everything else in the hardware
+There is no shift register currently in the boxes so this is everything else in the hardware
 
 
 ## 29/8/22
