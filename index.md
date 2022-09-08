@@ -1,5 +1,14 @@
 # Y11 IT Robotics Blog 
 
+## 4/9/22
+
+Bit math
+
+Using shift registries to read and compare 8 digit binary numbers, then show visually using LED's
+
+lacking shift register hardware
+
+
 ## 29/8/22
 
 Exams
@@ -29,10 +38,6 @@ Array Blinking Led
 <img src="./Images/Led pattern arrays.jpeg" title="Array Led Code" width="300"/>
 
 Uses an array to reference which led to turn on in a line
-
-Bit math
-
-
 
 
 ## 1/8/22 
