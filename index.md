@@ -8,12 +8,14 @@ Using shift registries to read and compare 8 digit binary numbers, then show vis
 
 <img src="./Images/Shift regestry code.png" title="Shift regestry code" width="300"/>
 
-<img src="./Images/Images/Shift registry code 2.png" title="Array Led Code" width="300"/>
+<img src="./Images/Shift regestry code 2.png" title="Array Led Code" width="300"/>
+
+The code reads an decimal input from the user, converts it to binary, and compares that to a preset binary string using "And", "Or", and "Exclusive Or". This is then shown on the LED's, lighting up to show 1's and dimming to show 0's
 
 
 <img src="./Images/Led pattern arrays.jpeg" title="Array Led Code" width="300"/>
 
-lacking shift register hardware
+there is no shift register currently in the boxes so this is everything else in the hardware
 
 
 ## 29/8/22
