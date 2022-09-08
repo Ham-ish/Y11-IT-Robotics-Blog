@@ -6,9 +6,9 @@ Bit math
 
 Using shift registries to read and compare 8 digit binary numbers, then show visually using LED's
 
-<img src="./Images/Led pattern arrays.jpeg" title="Array Led Code" width="300"/>
+<img src="./Images/Shift regestry code.png" title="Shift regestry code" width="300"/>
 
-<img src="./Images/Led pattern arrays.jpeg" title="Array Led Code" width="300"/>
+<img src="./Images/Images/Shift registry code 2.png" title="Array Led Code" width="300"/>
 
 
 <img src="./Images/Led pattern arrays.jpeg" title="Array Led Code" width="300"/>
