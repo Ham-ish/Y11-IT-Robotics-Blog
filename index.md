@@ -14,11 +14,11 @@ This is the code that the build uses.
 
 <img src="./Images/EEPROM Code 2.png" title="EEPROM Code 2" width="600"/>
 
-Board Image
+This is the Board that the document provides
 
 <img src="./Images/EEPROM Example Board.JPG" title="EEPROM Example Board" width="400"/>
 
-The board takes the input from the button push and uses EEPROM to store the button state as non-volitile information
+The board should take the input from the button push and then use EEPROM to store the button state as non-volitile information and then print the output with serial.print and as an LED state, but the board schematic provided does not have an LED connected to pin 13, so it does not do that.
 
 Conclusion
 
