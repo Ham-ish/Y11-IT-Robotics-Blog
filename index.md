@@ -1,5 +1,23 @@
 # Y11 IT Robotics Blog 
 
+## 12/9/22
+
+EEPROM
+
+Storing information inbetween lack of power
+
+EEPROM makes it possible to store non-volitile data. 
+
+Board
+
+Code
+
+Summary of board and code
+
+Conclusion (inluding the lack of usb adapter)
+
+
+
 ## 5/9/22
 
 Bit math
