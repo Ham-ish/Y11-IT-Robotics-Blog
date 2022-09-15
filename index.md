@@ -10,19 +10,19 @@ EEPROM makes it possible to store non-volitile data.
 
 This is the code that the build uses.
 
-<img src="./Images/EEPROM Code 2.png" title="Shift regestry code" width="600"/>
+<img src="./Images/EEPROM Code 1.png" title="EEPROM Code 1" width="600"/>
 
-<img src="./Images/EEPROM Code 1.png" title="Shift regestry code" width="600"/>
+<img src="./Images/EEPROM Code 2.png" title="EEPROM Code 2" width="600"/>
 
 Board Image
 
-Summary of board and code
+<img src="./Images/EEPROM Example Board.JPG" title="EEPROM Example Board" width="400"/>
 
+The board takes the input from the button push and uses EEPROM to store the button state as non-volitile information
 
+Conclusion
 
-Conclusion (inluding the lack of usb adapter)
-
-
+I couldn't test this board because I lost my USB-C Adapter 
 
 ## 5/9/22
 
