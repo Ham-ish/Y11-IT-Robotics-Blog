@@ -8,11 +8,17 @@ Storing information inbetween lack of power
 
 EEPROM makes it possible to store non-volitile data. 
 
-Board
+This is the code that the build uses.
 
-Code
+<img src="./Images/EEPROM Code 2.png" title="Shift regestry code" width="600"/>
+
+<img src="./Images/EEPROM Code 1.png" title="Shift regestry code" width="600"/>
+
+Board Image
 
 Summary of board and code
+
+
 
 Conclusion (inluding the lack of usb adapter)
 
