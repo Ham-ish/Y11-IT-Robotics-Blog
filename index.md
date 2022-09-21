@@ -1,5 +1,25 @@
 # Y11 IT Robotics Blog 
 
+## 19/9/22
+
+Practical project preface issued, I need to make a cool robot again
+
+This time, the robot needs to 
+
+**Planning and Preperation**
+
+Build a robot that takes movment sensor data to aim and fire a projectile
+
+We have Motion sensors 
+
+I am going to learn how they work to see how plausable this idea is
+
+Otherwise
+
+Building an aiming system for a 3D printed catupult will be what i am doing
+
+I am still in the exploration stage of this assignment and have no idea what i will actually do
+
 ## 12/9/22
 
 EEPROM
