@@ -1,10 +1,23 @@
 # Y11 IT Robotics Blog 
 
+## 17/10/22
+
+Blog post about last weel of Term 3 and week 1 Term 4
+
+Term 3 end
+
+Learning whether a PIR sensor does the things that I think that it does, realising that it is not nearly as directional as I thought it was and trying to find a solution before I forget about it.
+
+Term 4 week 1
+
+having completely forgotten about the previous problem, I started using pirs in TinkerCad
+
+
 ## 19/9/22
 
 Practical project preface issued, I need to make a cool robot again
 
-This time, the robot needs to 
+This time, the robot needs to do thoings
 
 **Planning and Preperation**
 
