@@ -4,11 +4,11 @@
 
 Blog post about last weel of Term 3 and week 1 Term 4
 
-Term 3 end
+**Term 3 end**
 
 Learning whether a PIR sensor does the things that I think that it does, realising that it is not nearly as directional as I thought it was and trying to find a solution before I forget about it.
 
-Term 4 week 1
+**Term 4 week 1**
 
 having completely forgotten about the previous problem, I started using pirs in TinkerCad and created a simple circuit.
 
@@ -16,7 +16,7 @@ having completely forgotten about the previous problem, I started using pirs in 
 
 Which I then realised was the exact same as the tutorial PIR LED circuit.
 
-
+<img src="./Images/Tinkercad PIR tutorial 1.png" title="Array Led Code" width="175"/>
 
 It is now my idea to use ultrasonics to measure distance then angle and tention the catapult based on the distance within a range of a few meters
 
