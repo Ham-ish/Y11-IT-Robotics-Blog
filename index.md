@@ -1,5 +1,12 @@
 # Y11 IT Robotics Blog 
 
+## 24/10/22
+
+Created code to move a servo to aim the catupult 
+
+<img src="./Images/Ultrasonic test 1.png" title="EEPROM Code 1" width="600"/>
+
+
 ## 17/10/22
 
 Blog post about last weel of Term 3 and week 1 Term 4
