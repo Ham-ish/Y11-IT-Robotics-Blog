@@ -4,8 +4,9 @@
 
 Created code to move a servo to aim the catupult 
 
-<img src="./Images/Ultrasonic test 1.png" title="EEPROM Code 1" width="600"/>
+<img src="./Images/Ultrasonic Test 1.png" title="EEPROM Code 1" width="300"/>
 
+<img src="./Images/Ultrasonic servo test 1.JPG" title="EEPROM Code 1" width="300"/>
 
 ## 17/10/22
 
