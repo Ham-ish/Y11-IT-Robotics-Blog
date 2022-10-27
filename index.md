@@ -6,7 +6,9 @@ Created code to move a servo to aim the catupult
 
 <img src="./Images/Ultrasonic Test 1.png" title="EEPROM Code 1" width="300"/>
 
-<img src="./Images/Ultrasonic servo test 1.JPG" title="EEPROM Code 1" width="300"/>
+<img src="./Images/Ultrasonic servo test 1.jpg" title="EEPROM Code 1" width="300"/>
+
+The code uses the ultrasonic to send a pulse and receive a pulse and then using the speed of sound as a constant to measure the distance. It then changes the angle of the servo based on the distance. It currently twitches wildly if the ultrasonic senses anything further away than 10 cm.
 
 ## 17/10/22
 
