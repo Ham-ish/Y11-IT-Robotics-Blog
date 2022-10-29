@@ -1,5 +1,10 @@
 # Y11 IT Robotics Blog 
 
+## 31/10/22
+
+Began working on catupult arm. 3D printed a stick with a ball holder on the end to attach to a servo, but the base was too poorly designed so has to use hobby motor instead. Attached together with hot glue 
+
+
 ## 24/10/22
 
 Created code to move a servo to aim the catupult 
