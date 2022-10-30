@@ -4,15 +4,25 @@
 
 Began working on catupult arm. 3D printed a stick with a ball holder on the end to attach to a servo, but the base was too poorly designed so has to use hobby motor instead. Attached them together with hot glue and then encountered a problem. The motor doesn't have enough torque to rotate the arm with a weight on it.
 
+<img src="./Images/High speed paper cutter (gear).JPG" title="High speed paper cutter (gear)" width="500"/>
 
+The contraption was, however, capable of rotating at a decent speed and build up some angular momentum and so, in an effort to make the time spent in 3D printing and building not go to waste, it was decided that this device would become a saw. So the scooped head was removed and the edge was sharpenedin an attempt to reduce surface area and therefore make a better cutting edge, but cutting against th layered "grain" of 3D printed materials is not very effecitve, so shaped hot glue was used instead. 
+
+<img src="./Images/High speed paper cutter (paper).JPG" title="High speed paper cutter (paper)" width="500"/>
+
+This is a prime example of a mechatronic device, using electricity, motors and simple machines to achieve somthing new and exciting.
+
+<img src="./Images/High speed paper cutter.JPG" title="High speed paper cutter (battery)" width="500"/>
+
+On a more useful note, I have changed the code for the ultrasonic servo so that it now has a range of more than 50 cm
 
 ## 24/10/22
 
 Created code to move a servo to aim the catupult 
 
-<img src="./Images/Ultrasonic Test 1.png" title="EEPROM Code 1" width="300"/>
+<img src="./Images/Ultrasonic Test 1.png" title="Ultrasonic servo Code" width="300"/>
 
-<img src="./Images/Ultrasonic servo test 1.jpg" title="EEPROM Code 1" width="300"/>
+<img src="./Images/Ultrasonic servo test 1.jpg" title="Ultrasonic servo build" width="300"/>
 
 The code uses the ultrasonic to send a pulse and receive a pulse and then using the speed of sound as a constant to measure the distance. It then changes the angle of the servo based on the distance. It currently twitches wildly if the ultrasonic senses anything further away than 10 cm.
 
