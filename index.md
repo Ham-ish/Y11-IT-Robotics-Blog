@@ -16,6 +16,8 @@ This is a prime example of a mechatronic device, using electricity, motors and s
 
 On a more useful note, I have changed the code for the ultrasonic servo so that it now has a range of more than 50 cm
 
+<img src="./Images/Ultrasonic Test 2.png" title="Ultrasonic servo Code" width="300"/>
+
 ## 24/10/22
 
 Created code to move a servo to aim the catupult 
