@@ -2,7 +2,8 @@
 
 ## 31/10/22
 
-Began working on catupult arm. 3D printed a stick with a ball holder on the end to attach to a servo, but the base was too poorly designed so has to use hobby motor instead. Attached together with hot glue 
+Began working on catupult arm. 3D printed a stick with a ball holder on the end to attach to a servo, but the base was too poorly designed so has to use hobby motor instead. Attached them together with hot glue and then encountered a problem. The motor doesn't have enough torque to rotate the arm with a weight on it.
+
 
 
 ## 24/10/22
