@@ -16,7 +16,13 @@ This is a prime example of a mechatronic device, using electricity, motors and s
 
 On a more useful note, I have changed the code for the ultrasonic servo so that it now has a range of more than 50 cm
 
-<img src="./Images/Ultrasonic Test 2.png" title="Ultrasonic servo Code" width="300"/>
+<img src="./Images/Ultrasonic test 2.png" title="Ultrasonic servo Code" width="300"/>
+
+Servo was twitching because it occasionally read 0 from the ultrasonic, so I changed the delay and now it doesn't do that until the sound-bounced object is more than 50 cm away. I also mapped the ultrasonic values between 0 and 56 cm to angles on the servo, so now it moves 180 degrees between maximum and minimum values. Turns out the Servo.h library is pretty funky. 
+
+The tissue cutting caupult taught me about the type of torque that the catupult might have, and inspired a possible solution in my final build.
+
+
 
 ## 24/10/22
 
