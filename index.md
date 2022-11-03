@@ -1,5 +1,11 @@
 # Y11 IT Robotics Blog 
 
+## 7/11/22
+
+Last week I rethought my idea for what a catupult does. Previously I had a preconception that the arm had to throw the payload "overarm", when I had the idea to go "underarm" instead. Creating a mechanism that hit a ball like a golf club into a ramp that launched it some variable distance was my new plan, and I immediately began working on prototypes.
+
+I made the first prototype early in the week, which ment I could get it back and continue working on it early. 
+
 ## 31/10/22
 
 Began working on catupult arm. 3D printed a stick with a ball holder on the end to attach to a servo, but the base was too poorly designed so has to use hobby motor instead. Attached them together with hot glue and then encountered a problem. The motor doesn't have enough torque to rotate the arm with a weight on it.
