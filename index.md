@@ -4,7 +4,20 @@
 
 Last week I rethought my idea for what a catupult does. Previously I had a preconception that the arm had to throw the payload "overarm", when I had the idea to go "underarm" instead. Creating a mechanism that hit a ball like a golf club into a ramp that launched it some variable distance was my new plan, and I immediately began working on prototypes.
 
-I made the first prototype early in the week, which ment I could get it back and continue working on it early. 
+I made the first prototype early in the week, which ment I could get it back and continue working on it early. The idea was to have a chanel that a ball would travel down, at which point it would be hit by the rotating arm and speed up greatly, then hitting the ramp and going into the air.
+
+
+<img src="./Images/Golfpult prototype i.png" title="Golfpult prototype i" width="400"/>
+
+<img src="./Images/Golfpult prototype i ball.png" title="Golfpult prototype i" width="200"/><img src="./Images/Golfpult prototype i hit.png" title="Golfpult prototype i" width="200"/><img src="./Images/Golfpult prototype i ramp.png" title="Golfpult prototype i" width="200"/>
+
+So I 3D printed the pieces and found their main problems
+
+1. It was very small
+2. The swinging arm couldn't fit into the holders
+3. There was no places for the mechatronic pieces to connect
+
+So i fixed these problems and created this
 
 ## 31/10/22
 
