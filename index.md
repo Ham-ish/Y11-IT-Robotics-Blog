@@ -9,7 +9,7 @@ I made the first prototype early in the week, which ment I could get it back and
 
 <img src="./Images/Golfpult prototype i.png" title="Golfpult prototype i" width="400"/>
 
-<img src="./Images/Golfpult prototype i ball.png" title="Golfpult prototype i" width="200"/><img src="./Images/Golfpult prototype i hit.png" title="Golfpult prototype i" width="200"/><img src="./Images/Golfpult prototype i ramp.png" title="Golfpult prototype i" width="200"/>
+<img src="./Images/Golfpult prototype i ball.png" title="Golfpult prototype i" width="150"/><img src="./Images/Golfpult prototype i hit.png" title="Golfpult prototype i" width="150"/><img src="./Images/Golfpult prototype i ramp.png" title="Golfpult prototype i" width="150"/>
 
 So I 3D printed the pieces and found their main problems
 
@@ -17,7 +17,19 @@ So I 3D printed the pieces and found their main problems
 2. The swinging arm couldn't fit into the holders
 3. There was no places for the mechatronic pieces to connect
 
-So i fixed these problems and created this
+So i fixed these problems and created this:
+
+<img src="./Images/Golfpult prototype ii.png" title="Golfpult prototype ii" width="400"/>
+
+I increased the scale of the model as well as increasing the size of the arm holders. I made points for the servo and motor to connect and also improved the model of the ramp
+
+<img src="./Images/Golfpult new hole.png" title="Golfpult prototype ii" width="150"/><img src="./Images/Golfpult new fixing.png" title="Golfpult prototype ii" width="150"/><img src="./Images/Golfpult new ramp.png" title="Golfpult prototype ii" width="150"/>
+
+I have not been able to test these pieces as they will take longer to print, and with the project deadline moving very close I am worried that it may not work the way it was supposed to.
+
+
+
+Other than that the project still has some minor fiddlings to do, but overall I am still confident that the project is good. I have grown my understanding and skills in the areas of 3D printing and modeling, motors and servos, general coding and a new appreciation for the mechatronics subject and mindset.
 
 ## 31/10/22
 
